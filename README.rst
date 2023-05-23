@@ -2,20 +2,9 @@
 Spaceship Titanic - Kaggle Project
 ==================================
 
+The following code contains the solution for the Spaceship Titanic- Kaggle competition project (https://www.kaggle.com/competitions/spaceship-titanic), helping me achieve a score of 80%.
 
-
-
-
-
-Space
-
-
-
-Features
---------
-
-* TODO
-
+Kaggle Profiel: https://www.kaggle.com/hamzah821
 Credits
 -------
 
